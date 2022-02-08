@@ -1,7 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
 import { Question } from "./components/Question";
-import { Answer } from "./components/Answer";
 
 function App() {
   return (
